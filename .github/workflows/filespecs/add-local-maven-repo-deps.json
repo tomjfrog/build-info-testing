@@ -1,0 +1,7 @@
+{
+  "files": [
+    {
+      "pattern": "/home/runner/.m2/repository/*"
+    }
+  ]
+}
